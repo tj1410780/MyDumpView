@@ -1,0 +1,14 @@
+{
+  "name": "DumpView",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Amy",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^4.1.0"
+  }
+}
